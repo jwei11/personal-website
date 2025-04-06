@@ -13,7 +13,7 @@
     "@vercel/analytics": "^1.1.3",
     "@vercel/speed-insights": "^1.0.9",
     "geist": "1.2.2",
-    "next": "^15.3.0-canary.39",
+    "next": "canary",
     "next-mdx-remote": "^4.4.1",
     "postcss": "^8.4.35",
     "react": "18.2.0",
@@ -21,16 +21,5 @@
     "sugar-high": "^0.6.0",
     "tailwindcss": "4.0.0-alpha.13",
     "typescript": "5.3.3"
-  },
-  "name": "package.json",
-  "description": "This is a porfolio site template complete with a blog. Includes:",
-  "version": "1.0.0",
-  "main": "postcss.config.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "personal-website"
-  },
-  "author": "jackie wei",
-  "license": "ISC"
+  }
 }
