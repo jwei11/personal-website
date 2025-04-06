@@ -24,7 +24,7 @@ export default function Page() {
         {`My academic interests include AI/ML, embedded systems, and anthropology. I love to hit the trails, explore new cuisines, engineer niche gadgets, and play with my cat, Artemis! You can learn more about her in the 'artemis' tab :3.`}
       </p>
       <p className="mb-4">
-        {`My 'blog" section is just a place for me to ramble and collect my thoughts in my daily living. Please feel free to take a look around! I talk about all kinds of topics, and maybe it will give you a new perspective on life!`}
+        {`My 'blog' section is just a place for me to ramble and collect my thoughts in my daily living. Please feel free to take a look around! I talk about all kinds of topics, and maybe it will give you a new perspective on life!`}
       </p>
       <div className="my-8">
         <BlogPosts />
