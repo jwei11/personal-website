@@ -33,11 +33,16 @@ html {
   min-width: 360px;
 }
 
+.centered {
+  display: flex;
+  justify-content: center;
+}
 .imgBordered {
-  margin-top:20px;
-  margin-bottom:20px;
+  margin-top:10px;
+  margin-bottom:10px;
   display: block;
   width: 50%;
+  display: flex
 }
 
 .prose .anchor {
