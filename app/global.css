@@ -33,15 +33,12 @@ html {
   min-width: 360px;
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
-
 .imgBordered {
   margin-top:20px;
   margin-bottom:20px;
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 .prose .anchor {
