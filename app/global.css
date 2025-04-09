@@ -127,6 +127,7 @@ html {
   @apply list-decimal pl-6;
 }
 
+
 .prose > :first-child {
   /* Override removing top margin, causing layout shift */
   margin-top: 1.25em !important;
@@ -163,4 +164,8 @@ table {
 
 .circularImage {
   border-radius: 50%;
+}
+
+.italicized {
+  font-style: italic;
 }
